@@ -219,15 +219,14 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👥 Team
 
-* **Frontend Developers**
-* **Backend Developers**
-* **AI/ML Engineers**
-* **Accessibility Specialists**
-
+1. DURGESH KUMAR DEWANGAN - 300012723018
+2. HRIDYESH KUMAR - 300012723025
+3. PRERNA SAKRE - 300012723044
+4. ROUNAK GUPTA - 300012723048
+5. MAYANK KAUSHIK - 300012723076
+6. P OM KUMAR - 3000127243001
 ---
 
 ✨ *Together, we aim to make assessments fair, inclusive, and accessible for all learners.*
 
 ---
-
-Do you want me to also create a **badges section** (e.g., build passing, license, contributors) and a **demo section** with screenshots/mockups to make the README more professional for GitHub?

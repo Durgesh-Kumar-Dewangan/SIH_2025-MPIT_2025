@@ -17,3 +17,11 @@ cd ..
 echo "✅ Setup complete. You can now run:"
 echo "   - npm run dev (frontend)"
 echo "   - npm start (backend)"
+
+
+
+
+
+### make it executable:
+chmod +x .devcontainer/setup.sh
+

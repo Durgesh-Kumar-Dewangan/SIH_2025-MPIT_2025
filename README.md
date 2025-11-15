@@ -10,7 +10,6 @@ An **AI-driven, inclusive assessment platform** designed to provide fair, adapti
 ## 🚀 Features
 
 * **Multi-Format Exams**: MCQs, descriptive, practical, and viva voce.
-* **Inclusivity for PWD**: Text-to-speech, voice-to-text, screen readers, adaptive inputs.
 * **AI Personalization**: Adaptive difficulty, performance prediction, fraud detection.
 * **Multi-Mode Delivery**: Online, offline, and blended assessments.
 * **Analytics & Feedback**: Real-time dashboards, benchmarking, exportable reports.
@@ -23,9 +22,8 @@ An **AI-driven, inclusive assessment platform** designed to provide fair, adapti
 ## 🏗️ System Architecture
 
 * **Frontend**: ReactJS / React Native, TailwindCSS, PWA, ARIA accessibility.
-* **Backend**: Python (Django/FastAPI) or Node.js, PostgreSQL/MongoDB.
+* **Backend**: Node.js, PostgreSQL/MongoDB.
 * **AI/ML**: TensorFlow, PyTorch, scikit-learn, HuggingFace (NLP).
-* **Accessibility**: Google Speech-to-Text, Amazon Polly, adaptive input devices.
 * **Analytics**: Pandas, Recharts, ReportLab, Chart.js.
 * **Security**: Role-based access, AES/TLS encryption, audit logs.
 

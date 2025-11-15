@@ -1,4 +1,4 @@
-# SIH_2025-MPIT_2025
+# MPIT_2025
 ---
 
 # 🧠 AI-Powered Inclusive Assessment Tool for the Skill Ecosystem

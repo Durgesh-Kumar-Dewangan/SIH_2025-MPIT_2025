@@ -17,92 +17,56 @@ An **AI-driven, inclusive assessment platform** designed to provide fair, adapti
 * **Scalability**: Cloud-hosted with offline sync support for low-connectivity regions.
 * **Multi-Language Support** for regional inclusivity.
 
----
-
-## 🏗️ System Architecture
-
-* **Frontend**: ReactJS / React Native, TailwindCSS, PWA, ARIA accessibility.
-* **Backend**: Node.js, PostgreSQL/MongoDB.
-* **AI/ML**: TensorFlow, PyTorch, scikit-learn, HuggingFace (NLP).
-* **Analytics**: Pandas, Recharts, ReportLab, Chart.js.
-* **Security**: Role-based access, AES/TLS encryption, audit logs.
-
----
-
 ## 🛠️ Installation & Setup
 
-### Prerequisites
+### Prerequisites in OS 
+* Node.js (LTS) — install from nodejs.org (recommended 18.x / 20.x).
+* Git (optional but useful) — git-scm.com.
+* VS Code — code.visualstudio.com.
+  
+### Recommended VS Code extensions 
+Install these from the Extensions marketplace:
+* ESLint
+* Prettier — Code formatter
+* Tailwind CSS IntelliSense
+* TypeScript/TS Server (normally built-in)
+* Any React/JSX helpers you like
 
-* Node.js >= 16
-* Python >= 3.9
-* PostgreSQL / MongoDB
-* Docker (optional, for deployment)
+### Open the project in VS Code
+1) Launch VS Code.
+2) File → Open Folder... → choose the extracted folder:
+.../C:\Users\Downloads\SIH_2025-MPIT_2025-main.zip\SIH_2025-MPIT_2025-main\WorkLaB -AI assessment-tool (the folder that contains package.json).
 
+### Open an integrated terminal in VS Code
+* Terminal → New Terminal (this will open PowerShell by default on Windows).
+
+
+### Install dependencies:
+```bash
+ cd "C:\Users\Downloads\SIH_2025-MPIT_2025-main.zip\MPIT_2025-main\WorkLaB -AI assessment-tool"
+```
+(copy from your folder path)
+
+```bash
+# use npm (recommended here because package-lock.json exists)
+npm install
+```
+```bash
+# use npm (recommended here because package-lock.json exists)
+npm run dev
+```
+
+
+
+
+
+#Github repo Cloning
 ### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/ai-inclusive-assessment-tool.git
 cd ai-inclusive-assessment-tool
 ```
-
-### Backend Setup
-
-```bash
-cd backend
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
-### AI Models Setup
-
-* Place trained models in `backend/models/`
-* Configure model paths in `config.json`
-
----
-
-## 📊 Analytics Dashboard
-
-* Candidate performance reports (real-time)
-* Educator dashboards (batch-level insights)
-* Benchmarking against regional/national standards
-
----
-
-## 🔒 Security
-
-* **Authentication**: OAuth2 / JWT
-* **Encryption**: AES 256-bit, TLS in transit
-* **Audit Logs**: Track all assessment activity for transparency
-
----
-
-## 🌍 Use Cases
-
-* Schools & ITIs
-* Vocational training centers
-* SSCs & government skilling programs
-* Inclusive exams for PWD candidates
-* Remote/low-connectivity regions
-
----
-
-## 📅 Roadmap
-
-* [x] Multi-format assessment engine
-* [x] AI-powered adaptivity & fraud detection
-* [x] Accessibility features (voice/screen reader support)
-* [ ] Multi-language support expansion
-* [ ] LMS & government portal integration
-* [ ] Mobile app deployment
 
 ---
 
@@ -225,6 +189,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 6. P OM KUMAR - 300012724301
 ---
 
-✨ *Together, we aim to make assessments fair, inclusive, and accessible for all learners.*
+✨
 
 ---
